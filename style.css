@@ -224,6 +224,7 @@ h2 {
     text-align: center;
     padding-bottom: 80px;
     border-bottom: 1px solid gray;
+    padding-top: 40px;
 
 
 }
@@ -245,4 +246,16 @@ h2 {
 .menu li a {
     text-decoration: none;
     color: rgb(175, 169, 169);
+}
+
+.font-awesome-icon {
+    width: 250px;
+    padding-top: 50px;
+    display: flex;
+    margin-left: 410px;
+}
+
+.fa-brands {
+    margin-right: 30px;
+    font-size: 30px;
 }
